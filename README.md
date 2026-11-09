@@ -3,7 +3,7 @@
 Computer Engineering student at **Istanbul Technical University**, with a lasting love for mathematics.
 What draws me to computing is the moment a problem gives way to structure: a proof of a scheduler's deadline guarantee, the linear algebra underneath a learning algorithm, the recurrence that decides an algorithm's worst case. I'd rather understand a system all the way down than use it as a black box, and I usually prove that to myself by building it.
 
-That curiosity doesn't stay in one field. My projects range from benchmarking quantized LLMs and building retrieval pipelines, through [analysing sorting and selection algorithms](https://github.com/drakhundov/algo-analysis) and [rewriting classic Unix utilities](https://github.com/drakhundov/unix) in C, down to a CPU designed in Verilog, with some Haskell along the way.
+That curiosity doesn't stay in one field. My projects range from benchmarking quantized LLMs and building retrieval pipelines, through [analysing sorting and selection algorithms](https://github.com/drakhundov/algo-analysis), [balancing red-black trees](https://github.com/drakhundov/Red-Black-Tree) and [rewriting classic Unix utilities](https://github.com/drakhundov/unix) in C, down to a CPU designed in Verilog, with some Haskell along the way.
 
 - 🔬 **Currently exploring:** parameter-efficient fine-tuning (LoRA, Fourier-based PEFT) and linear-attention architectures like Gated DeltaNet
 - 🤖 **Working on:** agentic AI & automation as a project scholar at İTÜ Teknopark
@@ -30,11 +30,14 @@ That curiosity doesn't stay in one field. My projects range from benchmarking qu
 | [unix](https://github.com/drakhundov/unix) | Classic Unix utilities rewritten in C (`cat`, `cp`, `grep`, `sort`, `tail`, `wc`), following *The C Programming Language* |
 | [signal-translator](https://github.com/drakhundov/signal-translator) | Line coding and modulation schemes (NRZ, Manchester, AMI, ASK/FSK/PSK, PCM, Delta, AM/FM/PM) with a CLI |
 
-## 📐 Algorithms
+## 📐 Algorithms & data structures
 
 | Project | What it is |
 |---|---|
 | [algo-analysis](https://github.com/drakhundov/algo-analysis) | Sorting (quick, merge, radix, counting, bucket and more) and selection (quickselect, median-of-medians) algorithms in C++, with a benchmarking harness |
+| [Red-Black-Tree](https://github.com/drakhundov/Red-Black-Tree) | Red-black tree in C++ with both iterative and recursive insertion and deletion, rotations and fix-ups, with GoogleTest property tests for the red-black invariants |
+| [Binary-Search-Tree](https://github.com/drakhundov/Binary-Search-Tree) | Binary search tree in C++ with iterative and recursive insertion and deletion and rotations, tested with GoogleTest |
+| [Heap](https://github.com/drakhundov/Heap) | Binary min/max heap in C++ with sift-up/sift-down and heapsort |
 | [freebase-search](https://github.com/drakhundov/freebase-search) | Shortest-path (BFS) search between entities in the Freebase knowledge graph, written in Haskell |
 
 ## 🛠️ Stack
