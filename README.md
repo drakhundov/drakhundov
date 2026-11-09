@@ -45,5 +45,5 @@ I like understanding models from the inside: implementing algorithms from scratc
 
 ## 📫 Reach me
 
-[![Email](https://img.shields.io/badge/Email-abdul.akhundzadeh%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:abdul.akhundzadeh@gmail.com)
+[![Email](https://img.shields.io/badge/Email-abdul.akhundzada%40outlook.com-0078D4?logo=microsoftoutlook&logoColor=white)](mailto:abdul.akhundzada@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Akhundzada-0A66C2)](https://www.linkedin.com/in/abdul-akhundzadeh)
