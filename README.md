@@ -1,15 +1,8 @@
-# Abdul Akhundzada
+# Hello 👋
 
-Computer Engineering student at **Istanbul Technical University**, with a lasting love for mathematics.
-What draws me to computing is the moment a problem gives way to structure: a proof of a scheduler's deadline guarantee, the linear algebra underneath a learning algorithm, the recurrence that decides an algorithm's worst case. I'd rather understand a system all the way down than use it as a black box, and I usually prove that to myself by building it.
+Welcome, and take your time looking around. A love of mathematics runs through most of what's here, though it wanders across fields: LLM benchmarking and retrieval, machine learning from scratch, algorithms and data structures, Unix tools and a file system in C, real-time scheduling, and a CPU in Verilog.
 
-That curiosity doesn't stay in one field. My projects range from benchmarking quantized LLMs and building retrieval pipelines, through [analysing sorting and selection algorithms](https://github.com/drakhundov/algo-analysis), [balancing red-black trees](https://github.com/drakhundov/Red-Black-Tree) and [rewriting classic Unix utilities](https://github.com/drakhundov/unix) in C, down to a CPU designed in Verilog, with some Haskell along the way.
-
-- 🔬 **Currently exploring:** parameter-efficient fine-tuning (LoRA, Fourier-based PEFT) and linear-attention architectures like Gated DeltaNet
-- 🤖 **Working on:** agentic AI & automation as a project scholar at İTÜ Teknopark
-- 🛩️ **Previously:** AI Software Development intern at Baykar (2026)
-- 🎓 **Also:** graduation thesis at ITU
-- 🌍 From Azerbaijan, grew up in Russia, based in Istanbul. I speak English, Turkish and Russian.
+For context: I'm based in Istanbul, Türkiye, completing my Computer Engineering degree at **Istanbul Technical University**, and previously interned at **Baykar** in AI software development. If anything here sparks a question, I'm happy to talk it through in English, Turkish or Russian.
 
 ## 🧠 Machine learning & LLMs
 
