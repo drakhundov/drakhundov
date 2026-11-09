@@ -1,8 +1,8 @@
-# Hello 👋
+# Hello
 
-Welcome, and take your time looking around. A love of mathematics runs through most of what's here, though it wanders across fields: LLM benchmarking and retrieval, machine learning from scratch, algorithms and data structures, Unix tools and a file system in C, real-time scheduling, and a CPU in Verilog.
+Welcome. Most of the work here grows out of a fondness for mathematics, and it deliberately spans several disciplines: benchmarking large language models, retrieval systems, machine learning from first principles, algorithms and data structures, operating-system internals in C, real-time scheduling, and processor design in Verilog.
 
-For context: I'm based in Istanbul, Türkiye, completing my Computer Engineering degree at **Istanbul Technical University**, and previously interned at **Baykar** in AI software development. If anything here sparks a question, I'm happy to talk it through in English, Turkish or Russian.
+I'm based in Istanbul, Türkiye, completing my degree in Computer Engineering at **Istanbul Technical University**, and previously interned at **Baykar** in AI software development. I'm glad to discuss any of this work in English, Turkish or Russian.
 
 ## 🧠 Machine learning & LLMs
 
