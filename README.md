@@ -1,16 +1,17 @@
-# Hi, I'm Abdul 👋
+# Abdul Akhundzada
 
-Computer Engineering student at **Istanbul Technical University**, building toward a career as an **AI / ML Engineer**.
-I like understanding models from the inside: implementing algorithms from scratch, benchmarking how models behave under quantization, and wiring LLMs into real tools.
+Computer Engineering student at **Istanbul Technical University**, with a lasting love for mathematics.
+What draws me to computing is the moment a problem gives way to structure: a proof of a scheduler's deadline guarantee, the linear algebra underneath a learning algorithm, the recurrence that decides an algorithm's worst case. I'd rather understand a system all the way down than use it as a black box, and I usually prove that to myself by building it.
+
+That curiosity doesn't stay in one field. My projects range from benchmarking quantized LLMs and building retrieval pipelines, through [analysing sorting and selection algorithms](https://github.com/drakhundov/algo-analysis) and [rewriting classic Unix utilities](https://github.com/drakhundov/unix) in C, down to a CPU designed in Verilog, with some Haskell along the way.
 
 - 🔬 **Currently exploring:** parameter-efficient fine-tuning (LoRA, Fourier-based PEFT) and linear-attention architectures like Gated DeltaNet
 - 🤖 **Working on:** agentic AI & automation as a project scholar at İTÜ Teknopark
 - 🛩️ **Previously:** AI Software Development intern at Baykar (2026)
 - 🎓 **Also:** graduation thesis at ITU
 - 🌍 From Azerbaijan, grew up in Russia, based in Istanbul. I speak English, Turkish and Russian.
-- 💼 Open to AI/ML engineering roles
 
-## 🧠 AI / ML
+## 🧠 Machine learning & LLMs
 
 | Project | What it is |
 |---|---|
@@ -19,14 +20,21 @@ I like understanding models from the inside: implementing algorithms from scratc
 | [ml-suite](https://github.com/drakhundov/ml-suite) | Classic ML from scratch in NumPy: linear/polynomial regression (gradient descent & least squares), one-vs-all logistic regression, KNN, k-means and naive Bayes, with experiment notebooks |
 | [llm-tooling](https://github.com/drakhundov/llm-tooling) | Minimal ReAct-style agent: a decorator turns typed Python functions into tool specs, and the LLM calls them (calculator, time, weather) via JSON actions |
 
-## ⚙️ Systems & low-level
+## ⚙️ Systems & hardware
 
 | Project | What it is |
 |---|---|
 | [basic-cpu](https://github.com/drakhundov/basic-cpu) | 16-bit CPU in Verilog: 8 registers, 16-function ALU with flags, ROM/RAM and a 12-state one-hot control unit, with per-module testbenches |
 | [rtss](https://github.com/drakhundov/rtss) | Real-time scheduling emulator in C++: table-driven, cyclic executive, RM, DM, EDF and LLF, tested with GoogleTest |
 | [minifs](https://github.com/drakhundov/minifs) | A small file system in C, with superblock, inodes, bitmap block allocation, directories and path resolution |
+| [unix](https://github.com/drakhundov/unix) | Classic Unix utilities rewritten in C (`cat`, `cp`, `grep`, `sort`, `tail`, `wc`), following *The C Programming Language* |
 | [signal-translator](https://github.com/drakhundov/signal-translator) | Line coding and modulation schemes (NRZ, Manchester, AMI, ASK/FSK/PSK, PCM, Delta, AM/FM/PM) with a CLI |
+
+## 📐 Algorithms
+
+| Project | What it is |
+|---|---|
+| [algo-analysis](https://github.com/drakhundov/algo-analysis) | Sorting (quick, merge, radix, counting, bucket and more) and selection (quickselect, median-of-medians) algorithms in C++, with a benchmarking harness |
 | [freebase-search](https://github.com/drakhundov/freebase-search) | Shortest-path (BFS) search between entities in the Freebase knowledge graph, written in Haskell |
 
 ## 🛠️ Stack
@@ -43,7 +51,7 @@ I like understanding models from the inside: implementing algorithms from scratc
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-## 📫 Reach me
+## 📫 Get in touch
 
 [![Email](https://img.shields.io/badge/Email-abdul.akhundzada%40outlook.com-0078D4?logo=microsoftoutlook&logoColor=white)](mailto:abdul.akhundzada@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Akhundzada-0A66C2)](https://www.linkedin.com/in/abdul-akhundzadeh)
