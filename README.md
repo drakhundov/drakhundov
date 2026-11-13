@@ -2,7 +2,7 @@
 
 Welcome. Most of the work here grows out of a fondness for mathematics, and it deliberately spans several disciplines: benchmarking large language models, retrieval systems, machine learning from first principles, algorithms and data structures, operating-system internals in C, real-time scheduling, and processor design in Verilog.
 
-I'm based in Istanbul, Türkiye, completing my degree in Computer Engineering at **Istanbul Technical University**, and previously interned at **Baykar** in AI software development. I'm glad to discuss any of this work in English, Turkish or Russian.
+I'm based in Istanbul, Türkiye, completing my degree in Computer Engineering at **Istanbul Technical University**, and previously interned at **Baykar** as an AI engineer. I'm glad to discuss any of this work in English, Turkish or Russian.
 
 ## 🧠 Machine learning & LLMs
 
